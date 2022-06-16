@@ -26,10 +26,10 @@ const Order = () => {
                   <span className={styles.id}>12345454</span>
                 </td>
                 <td>
-                  <span className={styles.name}>Burhanuddin Marcha</span>
+                  <span className={styles.name}>Burhanuddin</span>
                 </td>
                 <td>
-                  <span className={styles.address}>Pune st. 312-787 LA</span>
+                  <span className={styles.address}>Pune st. 312-87 LA</span>
                 </td>
                 <td>
                   <span className={styles.total}>$39.80</span>
